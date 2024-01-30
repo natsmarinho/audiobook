@@ -64,8 +64,6 @@ Pode ser usada para ouvir audiobooks.
 
 ## Tarefas em aberto
 
-Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação
-
 :memo: Adicionar faixa de audio para acompanhar quantos minutos o áudio tocou.
 
 :memo: Melhorar o estilo 
